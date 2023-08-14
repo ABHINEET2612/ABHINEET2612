@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABHINEET GAUR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhineet2612&label=Profile%20views&color=0e75b6&style=flat" alt="abhineet2612" /> </p>
-
 <p align="left"> <a href="https://twitter.com/gaur_abhineet" target="blank"><img src="https://img.shields.io/twitter/follow/gaur_abhineet?logo=twitter&style=for-the-badge" alt="gaur_abhineet" /></a> </p>
-
-- 🔭 I’m currently not working and looking for Internships **Looking for Interships**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
