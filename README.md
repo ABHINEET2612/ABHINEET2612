@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://codepen.io/@abhi2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abhi2612" height="30" width="40" /></a>
 <a href="https://twitter.com/gaur_abhineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaur_abhineet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhineet gaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhineet gaur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/abhineet-gaur-b11a0a280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhineet-gaur-b11a0a280" height="30" width="40" /></a>
 <a href="https://instagram.com/gaur_abhineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaur_abhineet" height="30" width="40" /></a>
 </p>
 
