@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABHINEET GAUR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/gaur_abhineet" target="blank"><img src="https://img.shields.io/twitter/follow/gaur_abhineet?logo=twitter&style=for-the-badge" alt="gaur_abhineet" /></a> </p>
 
